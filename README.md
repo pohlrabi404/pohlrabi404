@@ -27,7 +27,7 @@ I'm a passionate Software developer. I love building things!
 
 ## 🐍 Commit History
 
-![Snake animation](https://github.com/pohlrabi404/pohlrabi404/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/pohlrabi404/pohlrabi404/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
