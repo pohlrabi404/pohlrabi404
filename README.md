@@ -11,10 +11,9 @@ I'm a passionate Software developer. I love building things!
 - **Python**
 
 ## 🌟 Featured Project
-[Hyprfoci](https://github.com/pohlrabi404/Hyprfoci)  
-**46+ Stars** &nbsp; | &nbsp; BSD 3-Clause License
+[Hyprfoci](https://github.com/pohlrabi404/Hyprfoci) ![GitHub stars](https://img.shields.io/github/stars/pohlrabi404/Hyprfoci?style=social)
 
-[compile.nvim](https://github.com/pohlrabi404/compile.nvim)
+[compile.nvim](https://github.com/pohlrabi404/compile.nvim) ![GitHub stars](https://img.shields.io/github/stars/pohlrabi404/compile.nvim?style=social)
 
 ## 🧩 Hobbies & Interests
 - 🟦 Solving Rubik's Cubes
